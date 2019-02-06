@@ -2,7 +2,7 @@
 
 A demo app in Flutter about strings and styled text
 
-This is a supplement to the tutorial [Mastering styled text in Flutter](TODO).
+This is a supplement to the tutorial [Mastering styled text in Flutter](https://pusher.com/tutorials/styled-text-flutter).
 
 ## Setup
 
